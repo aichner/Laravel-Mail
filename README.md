@@ -11,14 +11,14 @@
   Advertisement Agency Christian Aichner.
   <br>
   <br>
-  <a href="https://github.com/aichner/Laravel-Template/issues/new?template=bug_report.md">Report bug</a>
+  <a href="https://github.com/aichner/Laravel-Mail/issues/new?template=bug_report.md">Report bug</a>
   ·
-  <a href="https://github.com/aichner/Laravel-Template/issues/new?template=feature_request.md">Request feature</a>
+  <a href="https://github.com/aichner/Laravel-Mail/issues/new?template=feature_request.md">Request feature</a>
   ·
   <a href="https://www.aichner-christian.com/damn/dev">Blog</a>
   <br>
   <br>
-  <a href="https://www.codacy.com/app/aichner/Laravel-Template">
+  <a href="https://www.codacy.com/app/aichner/Laravel-Mail">
     <img src="https://api.codacy.com/project/badge/Grade/579c145ee6cf4d7e8ae7c1c78a13617a" />
   </a>
 </p>
@@ -40,8 +40,8 @@
 ## [](#quick-start)Quick start
 
 - Install composer (if not installed yet)
-- Clone the repository: `git clone https://github.com/aichner/Laravel-Template.git Laravel-Template`
-- Go to the new folder `cd Laravel-Template`
+- Clone the repository: `git clone https://github.com/aichner/Laravel-Mail.git Laravel-Mail`
+- Go to the new folder `cd Laravel-Mail`
 - Run `composer update`
 - Copy `.env.template` and rename it to `.env`
 - Configure your `.env` to your needs
@@ -56,20 +56,23 @@ The demo site will now be accessible at your local webservice.
 ## [](#bug-and-feature-requests)Bugs and feature requests
 
 Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not
-addressed yet, [please open a new issue](https://github.com/aichner/Laravel-Template/issues/new/choose).
+addressed yet, [please open a new issue](https://github.com/aichner/Laravel-Mail/issues/new/choose).
 
 ## [](#contributing)Contributing
 
-![GitHub last commit](https://img.shields.io/github/last-commit/aichner/Laravel-Template)
-![GitHub issues](https://img.shields.io/github/issues-raw/aichner/Laravel-Template)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/aichner/Laravel-Template?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/aichner/Laravel-Mail)
+![GitHub issues](https://img.shields.io/github/issues-raw/aichner/Laravel-Mail)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/aichner/Laravel-Mail?color=green)
 
 Please read through our
-[contributing guidelines](https://github.com/aichner/Laravel-Template/blob/master/CONTRIBUTING.md). Included are
+[contributing guidelines](https://github.com/aichner/Laravel-Mail/blob/master/CONTRIBUTING.md). Included are
 directions for opening issues, coding standards, and notes on development.
 
 All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by
 [Mark Otto](https://github.com/mdo).
+
+The Laravel should conform to the [Contribution Guide](https://laravel.com/docs/5.6/contributions), maintaind by
+Laravel Team.
 
 ## [](#community)Community
 
