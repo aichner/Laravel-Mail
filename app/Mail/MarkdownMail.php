@@ -14,6 +14,7 @@ class MarkdownMail extends Mailable
     public $head;
     public $content;
     public $logo="https://www.sithcult.com/img/logo/logo_white.png";
+    public $user = 'Acolyte';
     /**
      * Create a new message instance.
      *
@@ -33,6 +34,6 @@ class MarkdownMail extends Mailable
      */
     public function build()
     {
-        return $this->markdown('markdownmail');
+        return $this->markdown('promotion');
     }
 }
