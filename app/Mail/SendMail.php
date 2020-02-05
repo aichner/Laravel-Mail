@@ -14,7 +14,7 @@ class SendMail extends Mailable
 
     public $head;
     public $content;
-    public $logo;
+    public $logo="https://www.sithcult.com/img/logo/logo_white.png";
     /**
      * Create a new message instance.
      *
